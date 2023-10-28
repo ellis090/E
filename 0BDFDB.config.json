@@ -1,0 +1,25 @@
+{
+	"all": {
+		"changeLogs": {
+			"BDFDB": "3.4.4",
+			"BetterNsfwTag": "1.3.2",
+			"LastMessageDate": "1.3.6",
+			"PluginRepo": "2.5.3",
+			"SpellCheck": "1.6.8",
+			"WriteUpperCase": "1.3.8"
+		},
+		"choices": {
+			"toastPosition": "right"
+		},
+		"general": {
+			"shareData": true,
+			"showToasts": true,
+			"showSupportBadges": false,
+			"useChromium": false
+		},
+		"hashes": {
+			"0BDFDB.data.json": "5448c5f7e20d91792ce3fa7859fd5433f6e5ad63",
+			"0BDFDB.raw.css": "6b9da96e121eb6dc70477f21e35a467a73e8d250"
+		}
+	}
+}
